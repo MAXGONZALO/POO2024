@@ -1,4 +1,4 @@
-package pe.edu.upeu.sysalmacen.util;
+package pe.edu.upeu.sysalmacenfx.utils;
 
 import java.io.File;
 import java.io.FileInputStream;
